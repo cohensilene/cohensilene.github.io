@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/style.css" />
+  <script src="/fu.js"></script>
+  <title>test</title>
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>TEST</h1>
+      <p>PREGUNTAS:</p>
+    </header>
+    <section>
+      <div id="resultado"></div>
+      <form name="testform" onsubmit="return verificarrespuestas()">
+        <h3>
+          1. ¿Cuál es la sentencia correcta para definir e inicializar una
+          variable "x" con un valor de 53?
+        </h3>
+
+        <input type="radio" name="p1" value="a" />a.Dim x = 53;<br />
+        <input type="radio" name="p1" value="b" />b.var x= 53;<br />
+        <input type="radio" name="p1" value="c" />c.let x = 53;<br />
+        <input type="radio" name="p1" value="d" />d.initial x = 53;<br />
+
+        <h3>2. Si una variable no se inicializa esta tomará el valor de:</h3>
+
+        <input type="radio" name="p2" value="a" />a.null<br />
+        <input type="radio" name="p2" value="b" />b.cero<br />
+        <input type="radio" name="p2" value="c" />c.false<br />
+        <input type="radio" name="p2" value="d" />d.undefined<br />
+
+        <h3>
+          3. Las variables de JavaScript son no tipadas, es decir pueden
+          contener cualquier tipo de dato.
+        </h3>
+
+        <input type="radio" name="p3" value="a" />a.Verdadero<br />
+        <input type="radio" name="p3" value="b" />b.Falso<br />
+
+        <h3>4. El nombre de una variable debe comenzar por:</h3>
+
+        <input type="radio" name="p4" value="a" />a.Letra, guion bajo ( _ ) o
+        signo de número ( #)<br />
+        <input type="radio" name="p4" value="b" />b.Letra, guion bajo ( _ ) o
+        signo de Dolar ( $)<br />
+        <input type="radio" name="p4" value="c" />c.Letra, guion bajo ( _ )<br />
+        <input type="radio" name="p4" value="d" />d.Letra, guion bajo ( _ ) o
+        ampersand ( &)<br />
+
+        <h3>5. Javascript es sensible a mayúsculas (Case Sensitive).</h3>
+
+        <input type="radio" name="p5" value="a" />a.Verdadero<br />
+        <input type="radio" name="p5" value="b" />b.falso<br />
+        <br />
+        <br />
+        <br />
+        <input type="submit" value="ENVIAR" />
+      </form>
+    </section>
+  </div>
+</body>
+
+</html>
