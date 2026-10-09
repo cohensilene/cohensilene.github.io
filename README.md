@@ -1,4 +1,4 @@
-# cohensilene.github.i0 
+# cohensilene.github.io
 
 estudiante de ingenieria en sistemas y computacion, en busca de oportunidades de practica en desarrallo web 
 
