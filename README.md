@@ -9,7 +9,7 @@ Soy una persona creativa, responsable y con muchas ganas de aprender. Me interes
 ### 1. Test de JavaScript
 Cuestionario interactivo sobre variables en JavaScript. Hecho con HTML, CSS y JavaScript.
 
-[Ver página] (https://github.com/cohensilene/cohensilene.github.io)
+[Ver página] (https://cohensilene.github.io/test/)
  
  
 
