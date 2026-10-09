@@ -1,4 +1,4 @@
-1# cohensilene.github.io
+# cohensilene.github.io
 estudiante de ingenieria en sistemas y computacion, en busca de oportunidades de practica en desarrallo web 
 
 ## Sobre mí
@@ -8,7 +8,7 @@ Soy una persona creativa, responsable y con muchas ganas de aprender. Me interes
 ## Proyectos
 ### 1. Test de JavaScript
 Cuestionario interactivo sobre variables en JavaScript. Hecho con HTML, CSS y JavaScript.
-https://github.com/cohensilene/silenecohen.github.io/tree/main/test
+[Ver página] (https://github.com/cohensilene/silenecohen.github.io/tree/main/test)
  
  
 
