@@ -7,7 +7,7 @@ function verificarrespuestas(){
    var myform = document.forms["testform"]; /*referencia al formulario*/
 var respuestas = ["b","d","a","b","a"];  /*almacena las respuestas de las preguntas*/
 /*respuestas   =   1   2   3   4   5 */
- for(var i = 1; i <total; i++){ /*ciclo for */
+for(var i = 1; i <= total; i++){ /*ciclo for */
     if(myform["p" + i].value === null || myform["p" + i].value === ""){  /*sentencia if - analiza la respuesta de cada pregunta. valor "p1" (atributo name) */
     /*( || ) devuelve el valor booleano true si uno o ambos operandos son true y, de lo contrario, devuelven false.*/
        alert("te falta responder la pregunta 👉🏻" + " " + "#" + i);  /*alerta (mensaje) en pantalla*/
