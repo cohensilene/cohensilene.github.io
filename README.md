@@ -18,5 +18,6 @@ Soy una persona creativa, responsable y con muchas ganas de aprender. Me interes
 
 ## Contacto
 correo: sortegacohen@gmail.com 
+
 telefono: 3128980108
 
