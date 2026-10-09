@@ -13,7 +13,7 @@ for(var i = 1; i <= total; i++){/*ciclo for */
        alert("te falta responder la pregunta 👉🏻" + " " + "#" + i);  /*alerta (mensaje) en pantalla*/
        return false; /*permite terminar con el ciclo "for"*/
     }else{ /*sentencia - verifica si la respuesta es correctas*/
-       if(myform["p" + i].value === respuestas[i - 1]){ /*verifica las espuesta y las compara con las correctas */
+      if(myform["p" + i].value === respuestas[i - 1] || (i === 1 && myform["p1"].value === "c")){ /*verifica las espuesta y las compara con las correctas */
           puntos++; /*obtenemos los puntos correctos elegidos por el usuario*/
        }
     }
