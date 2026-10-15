@@ -11,7 +11,11 @@ Cuestionario interactivo sobre variables en JavaScript. Hecho con HTML, CSS y Ja
 
 [Ver página] (https://cohensilene.github.io/test/)
  
- 
+### 2. Mi Mundo Tejido
+Página web para un emprendimiento de tejidos a crochet. Incluye diseño adaptable (responsive), contadores animados con JavaScript y formulario de contacto. Hecho con HTML, CSS y JavaScript.
+[Ver página](https://cohensilene.github.io/mi-mundo-tejido/)
+[Ver código](https://github.com/cohensilene/cohensilene.github.io/tree/main/mi-mundo-tejido)
+  
 
 ## Tecnologias 
 - HTML
